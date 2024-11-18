@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.autoSave": "onFocusChange",
+    "files.associations": {
+        "*.blade.php": "html",
+        "*.sql": "sql"
+    },
+    "emmet.includeLanguages": {
+      "blade": "html"
+    },
+    "docker.enabled": true,
+    "terminal.integrated.defaultProfile.linux": "cmd", // Altere para "powershell" ou "cmd" no Windows, se necessário
+    "workbench.colorTheme": "night-owl",
+    "workbench.iconTheme": "material-icon-theme"
+}
